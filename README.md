@@ -1,2 +1,3 @@
 # Git-class
-Isto é o meu portfólio.
+Isto ï¿½ o meu portfï¿½lio.
+Ã¨s bue fixe mas chata como tudo,  o entanto decerteza que alguem no mundo hÃ¡ de gostar de ti, eu nao mas alguem
