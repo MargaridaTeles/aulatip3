@@ -1,2 +1,2 @@
 # Git-class
-Files to be cloned for the class about git
+Isto é o meu portfólio.
